@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Batuhan</h1>
-<h3 align="center">A Flutter developer</h3>
 <img align="right" alt="Coding" width="100" src="https://i.imgur.com/SURRPdY.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=batuhanozhan&label=Profile%20views&color=0e75b6&style=plastic" alt="batuhanozhan" /> </p>
